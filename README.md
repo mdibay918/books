@@ -1,9 +1,9 @@
 **BOOKS :books:**
 
- - 2018
- - [ ] Domain-Driven Design (Eric Evans 2003)
+ - 2018 - 2019
+ - [X] Domain-Driven Design (Eric Evans 2003)
  - [ ] Building Microservices: Designing Fine-Grained Systems (Sam Newman)
- - [ ] Hands-On Microservices with Kotlin (Juan Antonio 2019)
+ - [X] Hands-On Microservices with Kotlin (Juan Antonio 2019)
  - [ ] Reactive Messaging Patterns with the Actor Model: Applications and Integration in Scala and Akka ( Vaughn Vernon, 2015)
  - [ ] Event Storming (Alberto Brandolini, 2018)  
  - [x] Reactive Microservice Architecture - Lightbend (Jonas Bonér 2016)
@@ -18,11 +18,14 @@
 - [ ] [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 - [x] [Event Storming and Spring with a Splash of DDD](https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd)
 - [x] [The law of leaky abstraction](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
-- [ ] [Patterns for Microservices — Sync vs. Async](https://dzone.com/articles/patterns-for-microservices-sync-vs-async)
+- [X] [Patterns for Microservices — Sync vs. Async](https://dzone.com/articles/patterns-for-microservices-sync-vs-async)
 - [x] [Command Query Responsibility Segregation (CQRS)](https://microservices.io/patterns/data/cqrs.html)
 - [x] [Building Microservices: A Reactive Framework Comparison](https://medium.com/capital-one-developers/building-microservices-a-reactive-framework-comparison-fb49d8f3c8f4)
+- [X] [Our Experience Designing and Building gRPC Services](https://dzone.com/articles/our-experience-designing-and-building-grpc-service)
+- [X] [Kubernetes Beginner's Guide: Learning the basics in an hour](https://www.weave.works/blog/kubernetes-beginners-guide/)
 
 ---
 
 **VIDEOS & TALKS :movie_camera:**
 - [ ] [Zuul's Journey to Non-Blocking" by Arthur Gonigberg](https://www.youtube.com/watch?v=2oXqbLhMS_A&feature=youtu.be)
+- [X] [gRPC 101 for Spring Developers - Ray Tsang](https://www.youtube.com/watch?v=xpmFhTMqWhc)
