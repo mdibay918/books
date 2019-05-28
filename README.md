@@ -29,3 +29,4 @@
 **VIDEOS & TALKS :movie_camera:**
 - [ ] [Zuul's Journey to Non-Blocking" by Arthur Gonigberg](https://www.youtube.com/watch?v=2oXqbLhMS_A&feature=youtu.be)
 - [X] [gRPC 101 for Spring Developers - Ray Tsang](https://www.youtube.com/watch?v=xpmFhTMqWhc)
+- [X] [GregYoung 8 CQRS Class](https://www.youtube.com/watch?v=whCk1Q87_ZI)
