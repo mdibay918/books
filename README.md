@@ -23,6 +23,8 @@
 - [x] [Building Microservices: A Reactive Framework Comparison](https://medium.com/capital-one-developers/building-microservices-a-reactive-framework-comparison-fb49d8f3c8f4)
 - [X] [Our Experience Designing and Building gRPC Services](https://dzone.com/articles/our-experience-designing-and-building-grpc-service)
 - [X] [Kubernetes Beginner's Guide: Learning the basics in an hour](https://www.weave.works/blog/kubernetes-beginners-guide/)
+- [X] [Streaming Data Solutions on AWS white-paper](https://d0.awsstatic.com/whitepapers/whitepaper-streaming-data-solutions-on-aws-with-amazon-kinesis.pdf)
+- [X] [AWS Serverelss Application Architecture Lens](https://d1.awsstatic.com/whitepapers/architecture/AWS-Serverless-Applications-Lens.pdf)
 
 ---
 
