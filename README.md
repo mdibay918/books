@@ -9,7 +9,8 @@
  - [x] Reactive Microservice Architecture - Lightbend (Jonas Bonér 2016)
  - [x] The Subtle Art of Not Giving aF*ck (Mark Manson)
  - [x] Soft Skills: The Software Developer's Life Manual (John Z. Sonmez)
- - [x] Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Kevin Horsley)
+ - [x] Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Kevin Horsley) 
+ - [X] [Hadoop for dummies] (https://piazza.com/class_profile/get_resource/hqecl11rq5m6e5/hrnuizxzu4e20m)
 
 ---
 
