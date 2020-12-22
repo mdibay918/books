@@ -1,4 +1,8 @@
 **BOOKS :books:**
+ - 2020
+ - [X] Man's Search for Meaning (Viktor Frankl - 1946)
+ - [X] The Forty Rules of Lov (Elif Shafak - 2009)
+
 
  - 2018 - 2019
  - [X] Domain-Driven Design (Eric Evans 2003)
