@@ -2,8 +2,9 @@
  - 2020-2021
  - [X] Man's Search for Meaning (Viktor Frankl - 1946)
  - [ ] The Forty Rules of Lov (Elif Shafak - 2009)
- - [ ] The gifts of Imperfection ([Brene Brown](https://brenebrown.com/books-audio/) - 2010)
+ - [X] The gifts of Imperfection ([Brene Brown](https://brenebrown.com/books-audio/) - 2010)
  - [ ] Sapiens: A Brief History of Humankind ([Yuval Noah Harari](https://www.google.com/search?q=Yuval+Noah+Harari&stick=H4sIAAAAAAAAAOPgE-LWz9U3MDQyM00uNlHiAnGyjXINsgu1ZLKTrfST8vOz9cuLMktKUvPiy_OLsq0SS0sy8osWsQpGlpYl5ij45SdmKHgkFiUWZe5gZQQANuRcs1AAAAA&sa=X&ved=2ahUKEwj8_6GwxYPuAhVRK30KHW9YDIQQmxMoATAkegQILhAD) - 2011)
+ - [ ] A Confession ([ Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy) - 1882)
  
 
 
