@@ -8,7 +8,7 @@
  - [X] Do Cool Sh*t ([Miki Agrawal](https://www.google.com/books/edition/Do_Cool_Sh_t/rRsXxxMFRN0C?hl=en&gbpv=1&printsec=frontcover) - 2013)
  - [X] Zero to One ([Peter Thiel, Blake Masters](https://www.google.com/books/edition/Zero_to_One/POOJDQAAQBAJ?hl=en&gbpv=1&printsec=frontcover) - 2014)
  - [ ] Sapiens: A Brief History of Humankind ([Yuval Noah Harari](https://www.google.com/search?q=Yuval+Noah+Harari&stick=H4sIAAAAAAAAAOPgE-LWz9U3MDQyM00uNlHiAnGyjXINsgu1ZLKTrfST8vOz9cuLMktKUvPiy_OLsq0SS0sy8osWsQpGlpYl5ij45SdmKHgkFiUWZe5gZQQANuRcs1AAAAA&sa=X&ved=2ahUKEwj8_6GwxYPuAhVRK30KHW9YDIQQmxMoATAkegQILhAD) - 2011)
- - [ ] Just Before Happiness ([Agnès Ledig](https://www.colibri.bg/eng/authors/609/agn232s-ledig) - 2017)
+ - [X] Just Before Happiness ([Agnès Ledig](https://www.colibri.bg/eng/authors/609/agn232s-ledig) - 2017)
  
 
 
