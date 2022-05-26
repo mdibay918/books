@@ -1,10 +1,17 @@
 
 **BOOKS :books:**
+
+
+**- 2021-2022**
+ - [X] Allen Carr's Easy Way to Stop Smoking (Alen Carr - 1985)
+ - [ ] The Water Urn (Khomreh; کوزه) ([Houshang Moradi Kermani](https://en.wikipedia.org/wiki/Houshang_Moradi_Kermani))
+
+
  **- 2020-2021**
  - [X] Man's Search for Meaning (Viktor Frankl - 1946)
- - [X] The Forty Rules of Lov (Elif Shafak - 2009)
+ - [X] The Forty Rules of Love (Elif Shafak - 2009)
  - [X] The gifts of Imperfection ([Brene Brown](https://brenebrown.com/books-audio/) - 2010)
- - [X] A Confession ([ Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy) - 1882)
+ - [X] A Confession ([Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy) - 1882)
  - [X] Do Cool Sh*t ([Miki Agrawal](https://www.google.com/books/edition/Do_Cool_Sh_t/rRsXxxMFRN0C?hl=en&gbpv=1&printsec=frontcover) - 2013)
  - [X] Zero to One ([Peter Thiel, Blake Masters](https://www.google.com/books/edition/Zero_to_One/POOJDQAAQBAJ?hl=en&gbpv=1&printsec=frontcover) - 2014)
  - [ ] Sapiens: A Brief History of Humankind ([Yuval Noah Harari](https://www.google.com/search?q=Yuval+Noah+Harari&stick=H4sIAAAAAAAAAOPgE-LWz9U3MDQyM00uNlHiAnGyjXINsgu1ZLKTrfST8vOz9cuLMktKUvPiy_OLsq0SS0sy8osWsQpGlpYl5ij45SdmKHgkFiUWZe5gZQQANuRcs1AAAAA&sa=X&ved=2ahUKEwj8_6GwxYPuAhVRK30KHW9YDIQQmxMoATAkegQILhAD) - 2011)
