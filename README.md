@@ -2,9 +2,13 @@
 **BOOKS :books:**
 
 
+**- 2022-2023**
+ - [X] [The Broken Ladder: How Inequality Affects the Way We Think, Live, and Die](https://www.amazon.com/Broken-Ladder-Inequality-Affects-Think/dp/0525429816)(Keith Payne - 2017)
+ 
+ 
 **- 2021-2022**
  - [X] Allen Carr's Easy Way to Stop Smoking (Alen Carr - 1985)
- - [ ] The Water Urn (Khomreh; کوزه) ([Houshang Moradi Kermani](https://en.wikipedia.org/wiki/Houshang_Moradi_Kermani))
+ - [X] The Water Urn (Khomreh; کوزه) ([Houshang Moradi Kermani](https://en.wikipedia.org/wiki/Houshang_Moradi_Kermani))
 
 
  **- 2020-2021**
