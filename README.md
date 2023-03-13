@@ -4,6 +4,7 @@
 
 **- 2022-2023**
  - [X] [The Broken Ladder: How Inequality Affects the Way We Think, Live, and Die](https://www.amazon.com/Broken-Ladder-Inequality-Affects-Think/dp/0525429816)(Keith Payne - 2017)
+ - [X] [Unfu*k Yourself: Get Out of Your Head and into Your Life](https://www.amazon.com/Unfu-Yourself-Your-Head-into/dp/0062803832)(Gary John Bishop - 2017)
  
  
 **- 2021-2022**
